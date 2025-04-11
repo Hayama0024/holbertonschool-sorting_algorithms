@@ -3,9 +3,11 @@
 
 /**
  * insertion_sort_list - tri in insert mode
- *@list : list chain
+ * @list: list chain
  */
+
 void insertion_sort_list(listint_t **list)
+
 {
 	listint_t *current, *next, *temp;
 
